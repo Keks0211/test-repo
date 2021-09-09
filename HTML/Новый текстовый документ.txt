@@ -1,0 +1,28 @@
+Ссылки на вебинары, которые рекомендуется посмотреть в качестве дополнительной информации к сегодняшнему вебинару:
+https://youtu.be/cOEIC_zE0dY
+https://youtu.be/Q0mmsqH6neg
+
+Краудтестинговые площадки:
+https://www.utest.com/
+https://test.io/
+https://nest.testbirds.com/home/login
+
+Информация по факультетам и обучению:
+https://geekbrains.usedocs.com/
+
+Ссылки на инструменты и ресурсы:
+https://bitnami.com/
+https://trello.com/
+https://www.atlassian.com/software/jira/pricing
+https://www.atlassian.com/software/confluence/pricing
+
+Выборка по вакансиям «Тестировщик ПО» без опыта
+https://hh.ru/search/vacancy?st=searchVacancy&text=QA+Engineer+Tester+%D1%82%D0%B5%D1%81%D1%82%D0%B5%D1%80&salary=&currency_code=RUR&experience=noExperience&order_by=relevance&search_period=&items_on_page=50&no_magic=true&L_save_area=true
+
+Выборка по вакансиям «Тестировщик ПО» без учета наличия опыта
+https://hh.ru/search/vacancy?st=searchVacancy&text=QA+Engineer+Tester+%D1%82%D0%B5%D1%81%D1%82%D0%B5%D1%80&salary=&currency_code=RUR&experience=doesNotMatter&order_by=relevance&search_period=&items_on_page=50&no_magic=true&L_save_area=true
+
+Выборка по вакансиям «Тестировщик ПО» удаленно и без учета наличия опыта
+https://hh.ru/search/vacancy?st=searchVacancy&text=QA+Engineer+Tester+%D1%82%D0%B5%D1%81%D1%82%D0%B5%D1%80&salary=&currency_code=RUR&experience=doesNotMatter&schedule=remote&order_by=relevance&search_period=&items_on_page=50&no_magic=true&L_save_area=true
+
+bugred.ru - проверить название баг-репорта
